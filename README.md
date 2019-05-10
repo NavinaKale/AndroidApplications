@@ -1,2 +1,1 @@
-# Project1
-Android Application
+# Android Applications
